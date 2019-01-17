@@ -1,4 +1,4 @@
-# Leader Election
+# ZooKeeper: Leader Election
 
 | Role | Description |
 | :--- | :--- |
